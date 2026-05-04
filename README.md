@@ -28,12 +28,12 @@ This is a living document. Updated regularly as I progress.
 
 Foundational knowledge required before touching any tooling or exploitation.
 
-| # | Topic | Link |
-|---|-------|----------|------|
-| 1 | Web Requests  |  |
-| 2 | Introduction To Web Applications  |  |
-| 3 | JavaScript Deobfuscation | |
-| 4 | Information Gathering - Web Edition | |
+| # | Topic                                  | Link |
+|---|----------------------------------------|------|
+| 1 | Web Requests                           |      |
+| 2 | Introduction To Web Applications       |      |
+| 3 | JavaScript Deobfuscation               |      |
+| 4 | Information Gathering - Web Edition    |      |
 
 ---
 
@@ -45,15 +45,6 @@ Core tools used throughout web pentesting. Get these down before Phase 3.
 |---|-------|----------|------|
 | 1 | Using Web Proxies | HTB Academy | |
 | 2 | Web Fuzzing | HTB Academy | |
-
-### Learning Resources
-
-| Topic | Resource | Platform | Type | Link |
-|-------|----------|----------|------|------|
-| Using Web Proxies | | | | |
-| Using Web Proxies | | | | |
-| Web Fuzzing | | | | |
-| Web Fuzzing | | | | |
 
 ---
 
