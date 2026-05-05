@@ -44,7 +44,7 @@ Core tools used throughout web pentesting. Get these down before Phase 3.
 | # | Topic | Resource | Link |
 |---|-------|----------|------|
 | 1 | Using Web Proxies | HTB Academy | |
-| 2 | Web Fuzzing | [Start learning from here] (https://github.com/cristophercervantes/htb_cwes-prep/tree/main/Tools%20Usage/Web%20Fuzzing) | |
+| 2 | Web Fuzzing | [Start learning from here](https://github.com/cristophercervantes/htb_cwes-prep/tree/main/Tools%20Usage/Web%20Fuzzing) | |
 
 ---
 
