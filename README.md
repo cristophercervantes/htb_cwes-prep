@@ -41,10 +41,10 @@ Foundational knowledge required before touching any tooling or exploitation.
 
 Core tools used throughout web pentesting. Get these down before Phase 3.
 
-| # | Topic | Resource | Link |
-|---|-------|----------|------|
-| 1 | Using Web Proxies | HTB Academy | |
-| 2 | Web Fuzzing | [Start learning from here](https://github.com/cristophercervantes/htb_cwes-prep/blob/main/Tools%20Usage/Web%20Fuzzing/1.%20Introduction.md) | |
+| # | Topic | Resource | 
+|---|-------|----------|
+| 1 | Using Web Proxies | HTB Academy | 
+| 2 | Web Fuzzing | [Start learning from here](https://github.com/cristophercervantes/htb_cwes-prep/blob/main/Tools%20Usage/Web%20Fuzzing/1.%20Introduction.md) | 
 
 ---
 
