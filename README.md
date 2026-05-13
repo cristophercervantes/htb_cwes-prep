@@ -17,23 +17,22 @@ This is a living document. Updated regularly as I progress.
 
 | Phase | Focus |
 |-------|-------|
-| 1 | Web Basics |
+| 1 | Programming + Information Gathering + some concept |
 | 2 | Tool Usage |
 | 3 | Vulnerabilities |
 | 4 | Practical & Process |
 
 ---
 
-## Phase 1 — Web Basics
+## Phase 1 — Programming + Information Gathering + some concept
 
 Foundational knowledge required before touching any tooling or exploitation.
 
 | # | Topic                                  | Link |
 |---|----------------------------------------|------|
-| 1 | Web Requests                           |      |
-| 2 | Introduction To Web Applications       |      |
-| 3 | JavaScript Deobfuscation               |      |
-| 4 | Information Gathering - Web Edition    |      |
+| 1 | JavaScript                             |      |
+| 2 | React JS                               |      |
+| 3 | Information Gathering                  |      |
 
 ---
 
