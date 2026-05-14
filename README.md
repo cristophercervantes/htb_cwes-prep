@@ -49,10 +49,10 @@ Core tools used throughout web pentesting. Get these down before Phase 3.
 
 ## Phase 3 — Vulnerabilities
 
-| # | Module | Category | Status |
+| # | Module | Link to learn | Status |
 |---|--------|----------|--------|
 | 1 | Cross-Site Scripting (XSS) | Injection | Pending |
-| 2 | SQL Injection Fundamentals | Injection | Pending |
+| 2 | SQL Injection Fundamentals | [Start learning from here](https://github.com/cristophercervantes/htb_cwes-prep/blob/main/Vulnerabilities/SQL-Injection/1.%20Databases.md) | Pending |
 | 3 | SQLMap Essentials | Injection | Pending |
 | 4 | Command Injections | Injection | Pending |
 | 5 | File Inclusion | File | Pending |
