@@ -17,21 +17,21 @@ This is a living document. Updated regularly as I progress.
 
 | Phase | Focus |
 |-------|-------|
-| 1 | Programming + Information Gathering + some concept |
+| 1 | Web Development Fundamentals |
 | 2 | Tool Usage |
 | 3 | Vulnerabilities |
 | 4 | Practical & Process |
 
 ---
 
-## Phase 1 — Programming + Information Gathering + some concept
+## Phase 1 — Web Development Fundamentals
 
 Foundational knowledge required before touching any tooling or exploitation.
 
 | # | Topic                                  | Link |
 |---|----------------------------------------|------|
-| 1 | JavaScript                             |      |
-| 2 | React JS                               |      |
+| 1 | Git Basic                              |      |
+| 2 | PHP                                    |      |
 | 3 | Information Gathering                  |      |
 
 ---
