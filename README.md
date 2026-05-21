@@ -31,7 +31,7 @@ Foundational knowledge required before touching any tooling or exploitation.
 | # | Topic                                  | Link |
 |---|----------------------------------------|------|
 | 1 | Git Basic                              |      |
-| 2 | PHP                                    |[Start learning from here](https://github.com/cristophercervantes/htb_cwes-prep/blob/main/Web%20Dev%20Foundation%20for%20Web%20Hacking/PHP/1.%20Introduction.md)  |
+| 2 | PHP                                    |[Start learning from here](https://github.com/cristophercervantes/htb_cwes-prep/blob/main/Web%20Dev%20Foundation%20for%20Web%20Hacking/PHP/1.%20Getting%20Started%20with%20PHP.md)  |
 | 3 | Information Gathering                  |      |
 
 ---
